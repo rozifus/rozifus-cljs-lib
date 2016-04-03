@@ -1,10 +1,10 @@
 # rozifus-cljs-lib
 
-A Leiningen template for cljs libs with testing.
+A Leiningen template for cljs libs with doo testing.
 
 ## Usage
 
-FIXME
+```lein new rozifus-cljs-lib project-name```
 
 ## License
 
