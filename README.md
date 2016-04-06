@@ -1,6 +1,6 @@
 # rozifus-cljs-lib
 
-A Leiningen template for cljs libs with doo testing.
+A Leiningen template for ClojureScript libraries with Doo testing.
 
 ## Usage
 
