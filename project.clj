@@ -1,4 +1,4 @@
-(defproject rozifus-cljs-lib/lein-template "0.1.0"
+(defproject rozifus-cljs-lib/lein-template "0.1.1"
   :description "A cljs lib template with doo testing"
   :url "https://github.com/rozifus/rozifus-cljs-lib"
   :scm {:name "git"
